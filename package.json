@@ -30,5 +30,8 @@
   "bugs": {
     "url": "https://github.com/kenziebottoms/vscode-theme-photophore/issues"
   },
-  "homepage": "https://github.com/kenziebottoms/vscode-theme-photophore#readme"
+  "homepage": "https://github.com/kenziebottoms/vscode-theme-photophore#readme",
+  "dependencies": {
+    "vsce": "^1.46.0"
+  }
 }
