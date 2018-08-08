@@ -22,5 +22,13 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenziebottoms/vscode-theme-photophore.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kenziebottoms/vscode-theme-photophore/issues"
+  },
+  "homepage": "https://github.com/kenziebottoms/vscode-theme-photophore#readme"
 }
