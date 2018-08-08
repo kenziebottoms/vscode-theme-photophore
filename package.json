@@ -1,0 +1,26 @@
+{
+  "name": "photophore",
+  "displayName": "Photophore Theme",
+  "description": "A bioluminescent theme for VS Code",
+  "version": "0.0.1",
+  "publisher": "kenziebottoms",
+  "engines": {
+    "vscode": "^1.25.0"
+  },
+  "icon": "icon.png",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Photophore Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/photophore.json"
+      }
+    ]
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
