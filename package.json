@@ -2,7 +2,7 @@
   "name": "photophore",
   "displayName": "Photophore Theme",
   "description": "A bioluminescent theme for VS Code",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "kenziebottoms",
   "engines": {
     "vscode": "^1.25.0"
